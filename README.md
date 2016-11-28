@@ -12,15 +12,15 @@ Ders kapsamında öğrencilerin iki boyutlu dizi işlemlerinde zorlandıkları g
 
 Herhangi bir durum için benimle iletişime geçebilirsiniz.
 
-### Ders : BSP 581 Bilgisayar Programlamaya Lab
+### Ders : BSP 581 Bilgisayar Programlamaya Giriş Lab
 #### Dersin amacı:
 BSP 501 Bilgisayar Programlama Giriş dersine pratik destek sağlamak amaçlanmaktadır.
 
 #### Bu dersi başarıyla tamamlayan öğrenciler, şu yetilere sahip olurlar:
-Standart Java dilinde yazılmış bir programı ve nasıl çalıştığını anlatabilmek
-Verilen bir problemin çözümü için yazılım adımlarını (algoritma) tasarlayabilmek
-Yazılım adımlarını anlaşılabilir ve dokümanları hazırlanmış şekilde Java programlama diline çevirebilmek
-Bir yazılım grubunun üyesi olarak yazılım parçaları üretebilmek
+* Standart Java dilinde yazılmış bir programı ve nasıl çalıştığını anlatabilmek
+* Verilen bir problemin çözümü için yazılım adımlarını (algoritma) tasarlayabilmek
+* Yazılım adımlarını anlaşılabilir ve dokümanları hazırlanmış şekilde Java programlama diline çevirebilmek
+* Bir yazılım grubunun üyesi olarak yazılım parçaları üretebilmek
 
 #### İçerik
 1. hafta:
